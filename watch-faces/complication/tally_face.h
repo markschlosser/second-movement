@@ -54,7 +54,7 @@ typedef struct {
     uint8_t tally_default_idx;
 } tally_state_t;
 
-//#define TALLY_FACE_PRESETS_MTG
+#define TALLY_FACE_PRESETS_MTG
 //#define TALLY_FACE_PRESETS_YUGIOH
 
 
