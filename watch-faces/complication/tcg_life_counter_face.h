@@ -42,7 +42,7 @@
 #include "movement.h"
 
 // Uncomment the following to disable the LED lighting upon holding LIGHT.
-// #define TCG_LIFE_COUNTER_FACE_DISABLE_LED
+#define TCG_LIFE_COUNTER_FACE_DISABLE_LED
 
 typedef struct {
     uint16_t life_values[2];
